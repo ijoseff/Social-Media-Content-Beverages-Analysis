@@ -1,0 +1,38 @@
+S.no.,Scenario/Inputs,Task,Tool/Programming Language,Deliverable to be submitted
+1,"arr1 = [['SG0016949819','Gojek'],
+['SG0016927486','GrabFood'],
+['SG0016952324','DBS Bank'],
+['SG0016934029','Comfort Delgro'],
+['SG0016946747','DBS Bank'],
+['SG0016928374','Gojek'],
+['SG0016937516','foodpanda'],
+['SG0016928593','GrabFood'],
+['SG0016934563','Gojek']]
+
+arr2 = [['Grab'],['Comfort DelGro'],['FoodPanda'],['DBS']]","arr1 & arr2 are array of arrays in javascript. The task is to filter arr1 through the contents of arr2, the filtering should be through partial matching. 
+The resulting array should be,
+arr3 = [['SG0016927486','GrabFood'],
+['SG0016952324','DBS Bank'],
+['SG0016934029','Comfort Delgro'],
+['SG0016946747','DBS Bank'],
+['SG0016937516','foodpanda'],
+['SG0016928593','GrabFood']]",Javascript,Executable script file (.js)
+2,"arr1 = [['SG0016949819','Gojek'],
+['SG0016927486','GrabFood'],
+['SG0016952324','DBS Bank'],
+['SG0016934029','Comfort Delgro'],
+['SG0016946747','DBS Bank'],
+['SG0016928374','Gojek'],
+['SG0016937516','foodpanda'],
+['SG0016928593','GrabFood'],
+['SG0016934563','Gojek']]
+
+arr2 = [['GrabFood', 'Food Delivery'],['Comfort DelGro', 'Transport'],['FoodPanda', 'Food Delivery'],['DBS', 'Banking & Finance']]","arr1 & arr2 are array of arrays in javascript. The task is to merge the arrays.
+The resulting array should be
+
+arr3 = [['SG0016927486','GrabFood','Food Delivery'],
+['SG0016952324','DBS Bank','Banking & Finance'],
+['SG0016934029','Comfort Delgro','Transport'],
+['SG0016946747','DBS Bank','Banking & Finance'],
+['SG0016937516','foodpanda','Food Delivery'],
+['SG0016928593','GrabFood','Food Delivery']]",Javascript,Executable script file (.js)

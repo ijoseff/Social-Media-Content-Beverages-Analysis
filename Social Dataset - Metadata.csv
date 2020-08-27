@@ -1,0 +1,18 @@
+About this dataset,This dataset contains public posts from the top social media channels in Singapore around juices & beverages
+Column Name,Description
+Post ID,Identifier for each row in the dataset
+Post Date,Date on which the social media post was made
+Title,Title of the social media thread
+Content,Content of the social media thread
+Post Type,Indicates whether the social media post is a original/first content of a thread (ARTICLE) or whether the post is a comment to the original/first content of a thread
+URL,The link to the post
+Channel Name,The name of the social media page where the post was made
+Channel Country,The country of origin of the social media post
+Channel Site Type,"The social media site where the post was made 
+SOCIAL_NETWORKING = Facebook
+MICROBLOG = Twitter
+FORUM = Forums"
+Channel Language,The language of the post
+Channel URL,The link/url of the social media page where the post was made
+Voice Name,The name of the social media profile who made the post
+Voice URL,The link/url to the social media profile which made the post

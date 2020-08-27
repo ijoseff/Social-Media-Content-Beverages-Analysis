@@ -1,0 +1,12 @@
+S.no.,Type of Task,Scenario,Task,Tool/Programming Language,Deliverable to be submitted
+1,Text Mining/Natural Language Processing (NLP),"Refer to ""Raw Data"" sheet, it contains thousands of rows There is a need to breakdown the data to make it more understandable to analysts so that they can decipher what are people saying around Juices & Beverages
+As a result, you are required to identify patterns within the Content (Column D)","- Summarise the data based on Content column (Column D) through text mining/Natural Language Processing
+- Explain the analysis & observations",Python,"Executable script file (.py)
+A document/presentation slides containing,
+- Explaination of the analysis approach
+- Outputs/Visualisations of the text minig and/or NLP
+- Key observations"
+2,Dashboard design,There is a need to present the text mining/natural language processing analyses & other key information (you are strongly recommended to use other columns alongside the text mining/NLP on Column D) from the raw data to business stakeholders,Create a dashboard that is interactive visualising the various data from Raw Data alongside the text mining/NLP analysis,"You can use any popular & publically shareable (online viewing) dashboarding tools,
+e.g.,
+Tableu Public - https://public.tableau.com/en-us/s/ or
+Google Data Studio - https://datastudio.google.com/ etc.",Accessible URL/links to the dashboard (no files will be accepted)
